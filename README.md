@@ -23,5 +23,5 @@
 
 <p><b>Conclusion: </b>To avoid the use of mouse and difficulty to draw using it in the existing systems , The Air Canvas helps us a lot. The system is also draw or present our imagination just by waving our hand . This uses the easy methods or libraries like use of hardware components like mouse, touch screen etc.</p>
 
-<p><b>Future Scope: </b>In future, we can also use the proposed system as base for many other hand tracking models. we can also use the system in Sign language detection, Hand Digit Classifier, Text to Speech and Virtual Mouse.</p>
+<p><b>Future Scope: </b>In future, we can also use the proposed system as base for many other hand tracking models. we can also use the system in Sign language detection, Hand Digit Classifier and Text to Speech.</p>
 
