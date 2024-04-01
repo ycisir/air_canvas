@@ -18,7 +18,7 @@
 
 #### Results
 <p align="center">
- <img src="re1.png" width="300"/><img src="re2.png" width="300"/><img src="re3.png" width="300"/>
+ <img src="res1.png" width="300"/><img src="res2.png" width="300"/><img src="res3.png" width="300"/>
 </p>
 
 <p><b>Conclusion: </b>To avoid the use of mouse and difficulty to draw using it in the existing systems , The Air Canvas helps us a lot. The system is also draw or present our imagination just by waving our hand . This uses the easy methods or libraries like use of hardware components like mouse, touch screen etc.</p>
