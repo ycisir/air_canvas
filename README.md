@@ -17,4 +17,4 @@
 </ul>
 
 #### Results
- <img src="re1.png" width="350"/><img src="re2.png" width="350"/><img src="re3.png" width="350"/>
+ <img src="re1.png" width="300"/><img src="re2.png" width="300"/><img src="re3.png" width="300"/>
