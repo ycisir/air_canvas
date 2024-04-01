@@ -8,3 +8,13 @@
 <p align="center">
   <img src="exp.png" width="450"/>
 </p>
+
+#### Applications
+<ul>
+  <li>To Develop a platform that enables users to express their creativity in new and innovative ways by writing in Air</li>
+  <li>To Develop functionalities that make the Air Canvas System a valuable tool for educators and presenters</li>
+  <li>To create a realistic and dynamic simulation of writing and drawing in mid-air</li>
+</ul>
+
+#### Results
+ <img src="re1.png" width="350"/><img src="re2.png" width="350"/><img src="re3.png" width="350"/>
