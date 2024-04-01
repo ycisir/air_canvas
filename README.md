@@ -4,5 +4,5 @@
 
 <p><b>Introduction: </b>Air Canvas is a hands-free digital drawing canvas which utilizes camera, OpenCV and MediaPipe to recognize and map the hand gestures. The user finger is considered as the brush or the pen used to draw. The size of the brush can be modified , also the pen color can be changed by hovering the pointer over built-in buttons. This system uses python language to build the code. Camera and MediaPipe is used to track the finger positions. Computer Vision built in methods are used to draw on the canvas or the area provided. We can also save the canvas work as an image.</p>
 
-<p><b>Experimental work: </b></p>
-<img src="exp.png">
+##### Experimental work:
+<img src="exp.png" style="max-width:350px">
