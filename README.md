@@ -6,7 +6,7 @@
 
 #### Experimental work:
 <p align="center">
-  <img src="exp.png" width="390"/>
+  <img src="exp.png" width="350"/>
 </p>
 
 #### Applications
